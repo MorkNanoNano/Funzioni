@@ -23,7 +23,7 @@ using namespace std;
           >> read[ntot]. 
           >> read[ntot]. 
           >> read[ntot].;
-          read[ntotal]. = 0;
+          read[ntot]. = 0;
         if (f.eof())
             break;
         ntot++;
